@@ -3,12 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+#title: Hexo
+#subtitle:
+#description:
+#author: John Doe
+#language:
+#timezone:
+title: 梦周十blog
+subtitle: 浩瀚宇宙里会有另一个我吗？
+description: 博客、技术、生活、分享、自由、阳光
+author: zhouyang
+language: zh-CN
 timezone:
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -70,3 +77,4 @@ theme: landscape
 deploy:
   type:git
   repository:http://github.com/1050599209/huangjunhui.github.io.git,
+  branch:master
