@@ -76,5 +76,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repository:http://github.com/1050599209/huangjunhui.github.io.git,
+  repository:http://github.com/1050599209/zhouyang.github.io.git,
   branch:master
